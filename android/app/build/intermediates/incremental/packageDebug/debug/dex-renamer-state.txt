@@ -1,0 +1,4 @@
+#Wed Jan 16 14:21:51 CST 2019
+base.0=/home/jorge/jaxitank/camera/foto2/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
