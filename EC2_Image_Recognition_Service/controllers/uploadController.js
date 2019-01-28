@@ -25,7 +25,7 @@ exports.upload = async (req, res, next) => {
 
                 // Pull base64 representation of image from file system
                 fs.readFile('./uploads/reniImage.jpg', 'base64', (err, data) => {
-                    
+
                     const buffer = new Buffer(data, 'base64');
 
                     rekognition.detectLabels({
@@ -42,7 +42,7 @@ exports.upload = async (req, res, next) => {
 
                         });
 
-                });                
+                });
             })()
         } catch ( err ) {
             throw err
