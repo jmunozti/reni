@@ -1,0 +1,24 @@
+{
+  "name": "restify-upload",
+  "version": "1.0.0",
+  "description": "restify upload",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "restify"
+  ],
+  "author": "Kingsley Silas",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.395.0",
+    "mkdirp": "^0.5.1",
+    "restify": "^6.3.4",
+    "restify-errors": "^5.0.0",
+    "uuid": "^3.2.1"
+  },
+  "devDependencies": {
+    "standard": "^10.0.3"
+  }
+}
