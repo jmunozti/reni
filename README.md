@@ -9,4 +9,10 @@ Reni contains.
 
 Continuous Integration and Delivery is maded with BitRise.
 
+Pull Request Sample:
+![alt text](https://github.com/jmunozti/reni/blob/master/doc/PR.png)
+
+BitRise CD/CI Dashboard.
 ![alt text](https://github.com/jmunozti/reni/blob/master/doc/CI.png)
+
+
