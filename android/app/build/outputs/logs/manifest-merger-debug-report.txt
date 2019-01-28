@@ -1,0 +1,281 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-camera] /home/jorge/jaxitank/camera/foto2/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-18:12
+MERGED from [com.facebook.react:react-native:0.56.1] /home/jorge/.gradle/caches/transforms-1/files-1.1/react-native-0.56.1.aar/6bc67a4bc4e16c3ca78b0ed2cf3d8f0b/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3ec3b1cdc5a2259b650f87e38f1d420d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] /home/jorge/.gradle/caches/transforms-1/files-1.1/play-services-vision-15.0.2.aar/3b137aa3b07e6cd78b6ff538444438f5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:exifinterface:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/exifinterface-26.1.0.aar/b9ceb1bf9f251afd3d9c214f7d2539a0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/eb3e00bd567ef7b9388b7f6b6091c007/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/85ebf0ceee55410d15099bf8a5bc8d45/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] /home/jorge/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-15.0.2.aar/26c409bf2dbfbf6d5a3f2295dc2f7cbf/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] /home/jorge/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-15.0.1.aar/e9cc1f529266a8d7698a7bd2c1da6e56/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /home/jorge/.gradle/caches/transforms-1/files-1.1/play-services-flags-15.0.1.aar/5373537043b01df058e0031aaf999123/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /home/jorge/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-15.0.1.aar/d07616e7c20cb1269643a5e2e715b26b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/jorge/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/0be6b3b4d3d8c7a962557fd32d4c18c7/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/jorge/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/1ca5eaacdc0b8ab31c16e10b80ca787e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/jorge/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/0c3bf35b2977b8c4112d6b80131aac9e/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/a7bd0ce4cfe2181c667e8bc1cabd2eb7/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/3059c983df9071f850268b3e2a651be9/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a138a2067d6897254f1ec587d8cc7c74/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/364232ec151041ec90a097575de185ad/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/86dc0df77a6e673343b1c2dc4f704ef6/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/35739ae87ec77224bbf5092d9d1b15d1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/c666512ca3f31804467facc6c08863b7/AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.9.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/fresco-1.9.0.aar/5b4f5a69d2cad3ea7babafdd5e39d5cd/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.9.0.aar/f431cabcf6de8d8c3fdd842a6ae260b3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.9.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/drawee-1.9.0.aar/059b323228127c771b84848d2a40cc25/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.9.0.aar/cfa07570b9b8d7f1b3b5b6cdf82dfee0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.9.0.aar/bbd0939955df8e1db703a906ec21edfb/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.3.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/77bb11dd93fe4e688cd84023ba57163b/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /home/jorge/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/d5be8d8442901b4d38fe9c757240a071/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/fbcore-1.9.0.aar/998dbd5f9aa170eb9824f994ba382957/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/257f810cf51ccb42ef42e34db951a947/AndroidManifest.xml:17:1-30:12
+INJECTED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml:2:5-24
+		INJECTED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.56.1] /home/jorge/.gradle/caches/transforms-1/files-1.1/react-native-0.56.1.aar/6bc67a4bc4e16c3ca78b0ed2cf3d8f0b/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.56.1] /home/jorge/.gradle/caches/transforms-1/files-1.1/react-native-0.56.1.aar/6bc67a4bc4e16c3ca78b0ed2cf3d8f0b/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.56.1] /home/jorge/.gradle/caches/transforms-1/files-1.1/react-native-0.56.1.aar/6bc67a4bc4e16c3ca78b0ed2cf3d8f0b/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.56.1] /home/jorge/.gradle/caches/transforms-1/files-1.1/react-native-0.56.1.aar/6bc67a4bc4e16c3ca78b0ed2cf3d8f0b/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3ec3b1cdc5a2259b650f87e38f1d420d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3ec3b1cdc5a2259b650f87e38f1d420d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] /home/jorge/.gradle/caches/transforms-1/files-1.1/play-services-vision-15.0.2.aar/3b137aa3b07e6cd78b6ff538444438f5/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] /home/jorge/.gradle/caches/transforms-1/files-1.1/play-services-vision-15.0.2.aar/3b137aa3b07e6cd78b6ff538444438f5/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:exifinterface:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/exifinterface-26.1.0.aar/b9ceb1bf9f251afd3d9c214f7d2539a0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:exifinterface:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/exifinterface-26.1.0.aar/b9ceb1bf9f251afd3d9c214f7d2539a0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/eb3e00bd567ef7b9388b7f6b6091c007/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/eb3e00bd567ef7b9388b7f6b6091c007/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/85ebf0ceee55410d15099bf8a5bc8d45/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/85ebf0ceee55410d15099bf8a5bc8d45/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] /home/jorge/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-15.0.2.aar/26c409bf2dbfbf6d5a3f2295dc2f7cbf/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] /home/jorge/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-15.0.2.aar/26c409bf2dbfbf6d5a3f2295dc2f7cbf/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] /home/jorge/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-15.0.1.aar/e9cc1f529266a8d7698a7bd2c1da6e56/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] /home/jorge/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-15.0.1.aar/e9cc1f529266a8d7698a7bd2c1da6e56/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /home/jorge/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-15.0.1.aar/d07616e7c20cb1269643a5e2e715b26b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /home/jorge/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-15.0.1.aar/d07616e7c20cb1269643a5e2e715b26b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/jorge/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/0be6b3b4d3d8c7a962557fd32d4c18c7/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/jorge/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/0be6b3b4d3d8c7a962557fd32d4c18c7/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/jorge/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/1ca5eaacdc0b8ab31c16e10b80ca787e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/jorge/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/1ca5eaacdc0b8ab31c16e10b80ca787e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/jorge/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/0c3bf35b2977b8c4112d6b80131aac9e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/jorge/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/0c3bf35b2977b8c4112d6b80131aac9e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/a7bd0ce4cfe2181c667e8bc1cabd2eb7/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/a7bd0ce4cfe2181c667e8bc1cabd2eb7/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/3059c983df9071f850268b3e2a651be9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/3059c983df9071f850268b3e2a651be9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a138a2067d6897254f1ec587d8cc7c74/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a138a2067d6897254f1ec587d8cc7c74/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/364232ec151041ec90a097575de185ad/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/364232ec151041ec90a097575de185ad/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/86dc0df77a6e673343b1c2dc4f704ef6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/86dc0df77a6e673343b1c2dc4f704ef6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/35739ae87ec77224bbf5092d9d1b15d1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/35739ae87ec77224bbf5092d9d1b15d1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.facebook.soloader:soloader:0.3.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/77bb11dd93fe4e688cd84023ba57163b/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.3.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/77bb11dd93fe4e688cd84023ba57163b/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /home/jorge/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/d5be8d8442901b4d38fe9c757240a071/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/jorge/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/d5be8d8442901b4d38fe9c757240a071/AndroidManifest.xml:2:3-17
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/257f810cf51ccb42ef42e34db951a947/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/257f810cf51ccb42ef42e34db951a947/AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.foto2.MainActivity
+ADDED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-camera] /home/jorge/jaxitank/camera/foto2/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-camera] /home/jorge/jaxitank/camera/foto2/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.56.1] /home/jorge/.gradle/caches/transforms-1/files-1.1/react-native-0.56.1.aar/6bc67a4bc4e16c3ca78b0ed2cf3d8f0b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.56.1] /home/jorge/.gradle/caches/transforms-1/files-1.1/react-native-0.56.1.aar/6bc67a4bc4e16c3ca78b0ed2cf3d8f0b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3ec3b1cdc5a2259b650f87e38f1d420d/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3ec3b1cdc5a2259b650f87e38f1d420d/AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] /home/jorge/.gradle/caches/transforms-1/files-1.1/play-services-vision-15.0.2.aar/3b137aa3b07e6cd78b6ff538444438f5/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] /home/jorge/.gradle/caches/transforms-1/files-1.1/play-services-vision-15.0.2.aar/3b137aa3b07e6cd78b6ff538444438f5/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:exifinterface:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/exifinterface-26.1.0.aar/b9ceb1bf9f251afd3d9c214f7d2539a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/exifinterface-26.1.0.aar/b9ceb1bf9f251afd3d9c214f7d2539a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/eb3e00bd567ef7b9388b7f6b6091c007/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/eb3e00bd567ef7b9388b7f6b6091c007/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/85ebf0ceee55410d15099bf8a5bc8d45/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/85ebf0ceee55410d15099bf8a5bc8d45/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] /home/jorge/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-15.0.2.aar/26c409bf2dbfbf6d5a3f2295dc2f7cbf/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] /home/jorge/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-15.0.2.aar/26c409bf2dbfbf6d5a3f2295dc2f7cbf/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] /home/jorge/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-15.0.1.aar/e9cc1f529266a8d7698a7bd2c1da6e56/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] /home/jorge/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-15.0.1.aar/e9cc1f529266a8d7698a7bd2c1da6e56/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /home/jorge/.gradle/caches/transforms-1/files-1.1/play-services-flags-15.0.1.aar/5373537043b01df058e0031aaf999123/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /home/jorge/.gradle/caches/transforms-1/files-1.1/play-services-flags-15.0.1.aar/5373537043b01df058e0031aaf999123/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /home/jorge/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-15.0.1.aar/d07616e7c20cb1269643a5e2e715b26b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /home/jorge/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-15.0.1.aar/d07616e7c20cb1269643a5e2e715b26b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/jorge/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/0be6b3b4d3d8c7a962557fd32d4c18c7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/jorge/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/0be6b3b4d3d8c7a962557fd32d4c18c7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/jorge/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/1ca5eaacdc0b8ab31c16e10b80ca787e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/jorge/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/1ca5eaacdc0b8ab31c16e10b80ca787e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/jorge/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/0c3bf35b2977b8c4112d6b80131aac9e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/jorge/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/0c3bf35b2977b8c4112d6b80131aac9e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/a7bd0ce4cfe2181c667e8bc1cabd2eb7/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/a7bd0ce4cfe2181c667e8bc1cabd2eb7/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/3059c983df9071f850268b3e2a651be9/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/3059c983df9071f850268b3e2a651be9/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a138a2067d6897254f1ec587d8cc7c74/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a138a2067d6897254f1ec587d8cc7c74/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/364232ec151041ec90a097575de185ad/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/364232ec151041ec90a097575de185ad/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/86dc0df77a6e673343b1c2dc4f704ef6/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/86dc0df77a6e673343b1c2dc4f704ef6/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/35739ae87ec77224bbf5092d9d1b15d1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/35739ae87ec77224bbf5092d9d1b15d1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/c666512ca3f31804467facc6c08863b7/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/c666512ca3f31804467facc6c08863b7/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.9.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/fresco-1.9.0.aar/5b4f5a69d2cad3ea7babafdd5e39d5cd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.9.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/fresco-1.9.0.aar/5b4f5a69d2cad3ea7babafdd5e39d5cd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.9.0.aar/f431cabcf6de8d8c3fdd842a6ae260b3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.9.0.aar/f431cabcf6de8d8c3fdd842a6ae260b3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.9.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/drawee-1.9.0.aar/059b323228127c771b84848d2a40cc25/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.9.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/drawee-1.9.0.aar/059b323228127c771b84848d2a40cc25/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.9.0.aar/cfa07570b9b8d7f1b3b5b6cdf82dfee0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.9.0.aar/cfa07570b9b8d7f1b3b5b6cdf82dfee0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.9.0.aar/bbd0939955df8e1db703a906ec21edfb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.9.0.aar/bbd0939955df8e1db703a906ec21edfb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.3.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/77bb11dd93fe4e688cd84023ba57163b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.3.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/77bb11dd93fe4e688cd84023ba57163b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/fbcore-1.9.0.aar/998dbd5f9aa170eb9824f994ba382957/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/fbcore-1.9.0.aar/998dbd5f9aa170eb9824f994ba382957/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/257f810cf51ccb42ef42e34db951a947/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/257f810cf51ccb42ef42e34db951a947/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3ec3b1cdc5a2259b650f87e38f1d420d/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from [:react-native-camera] /home/jorge/jaxitank/camera/foto2/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from [:react-native-camera] /home/jorge/jaxitank/camera/foto2/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:9:22-62
+uses-feature#android.hardware.camera
+ADDED from [:react-native-camera] /home/jorge/jaxitank/camera/foto2/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from [:react-native-camera] /home/jorge/jaxitank/camera/foto2/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from [:react-native-camera] /home/jorge/jaxitank/camera/foto2/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:react-native-camera] /home/jorge/jaxitank/camera/foto2/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [:react-native-camera] /home/jorge/jaxitank/camera/foto2/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [:react-native-camera] /home/jorge/jaxitank/camera/foto2/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:9-57
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3ec3b1cdc5a2259b650f87e38f1d420d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:exifinterface:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/exifinterface-26.1.0.aar/b9ceb1bf9f251afd3d9c214f7d2539a0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:exifinterface:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/exifinterface-26.1.0.aar/b9ceb1bf9f251afd3d9c214f7d2539a0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/eb3e00bd567ef7b9388b7f6b6091c007/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/eb3e00bd567ef7b9388b7f6b6091c007/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/85ebf0ceee55410d15099bf8a5bc8d45/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/85ebf0ceee55410d15099bf8a5bc8d45/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/a7bd0ce4cfe2181c667e8bc1cabd2eb7/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/a7bd0ce4cfe2181c667e8bc1cabd2eb7/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/3059c983df9071f850268b3e2a651be9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/3059c983df9071f850268b3e2a651be9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a138a2067d6897254f1ec587d8cc7c74/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a138a2067d6897254f1ec587d8cc7c74/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/364232ec151041ec90a097575de185ad/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/364232ec151041ec90a097575de185ad/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/86dc0df77a6e673343b1c2dc4f704ef6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/86dc0df77a6e673343b1c2dc4f704ef6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/35739ae87ec77224bbf5092d9d1b15d1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/35739ae87ec77224bbf5092d9d1b15d1/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3ec3b1cdc5a2259b650f87e38f1d420d/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3ec3b1cdc5a2259b650f87e38f1d420d/AndroidManifest.xml:27:13-51
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/jorge/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/0be6b3b4d3d8c7a962557fd32d4c18c7/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/jorge/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/0be6b3b4d3d8c7a962557fd32d4c18c7/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/jorge/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/0be6b3b4d3d8c7a962557fd32d4c18c7/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/jorge/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/0be6b3b4d3d8c7a962557fd32d4c18c7/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] /home/jorge/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/0c3bf35b2977b8c4112d6b80131aac9e/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /home/jorge/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/0c3bf35b2977b8c4112d6b80131aac9e/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /home/jorge/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/0c3bf35b2977b8c4112d6b80131aac9e/AndroidManifest.xml:24:13-58
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/jorge/jaxitank/camera/foto2/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/257f810cf51ccb42ef42e34db951a947/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/257f810cf51ccb42ef42e34db951a947/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/jorge/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/257f810cf51ccb42ef42e34db951a947/AndroidManifest.xml:26:13-58
