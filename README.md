@@ -8,3 +8,5 @@ Reni contains.
 2.- A NodeJS backend that receives and stores uploaded images and performs image recognition with AWS Rekognition.
 
 Continuous Integration and Delivery is maded with BitRise.
+
+![alt text](https://github.com/jmunozti/reni/blob/master/doc/CI.png)
