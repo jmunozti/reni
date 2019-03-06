@@ -1,4 +1,6 @@
 # Reni
+*Status: In progress.*
+
 Image recognition with Amazon Webservices Rekognition
 
 Reni contains.
