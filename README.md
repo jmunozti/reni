@@ -5,7 +5,7 @@ Reni contains.
 
 1.- A React Native app with React native Camera to take and upload photos to an AWS EC2 instance. 
 
-2.- A NodeJS backend that receives and stores uploaded images and performs image recognition with AWS Rekognition.
+2.- A NodeJS backend (EC2_Image_Recognition_Service) that receives and stores uploaded images and performs image recognition with AWS Rekognition.
 
 Continuous Integration and Delivery is maded with BitRise.
 
